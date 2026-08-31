@@ -86,3 +86,4 @@ int main() {
 
 
 
+// maintenance note (5): add edge-case comment to this file — 2026-08-31

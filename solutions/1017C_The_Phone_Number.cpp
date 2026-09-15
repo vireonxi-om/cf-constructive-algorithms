@@ -28,4 +28,4 @@ int main(){
     for(int i=1; i<=num; i++) printf("%d ", i);
     printf("\n");
     return 0;
-}
+}// maintenance note (11): minor readability pass on this file — 2026-09-15

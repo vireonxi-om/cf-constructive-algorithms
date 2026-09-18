@@ -26,3 +26,4 @@ int main(){
     while(t--) solve();
     return 0;
 }
+// maintenance note (12): small formatting cleanup on this file — 2026-09-18

@@ -27,3 +27,4 @@ int main(){
     return 0;
 }
 // maintenance note (12): small formatting cleanup on this file — 2026-09-18
+// maintenance note (13): add complexity note to this file — 2026-09-20

@@ -67,3 +67,4 @@ int main() {
 	return 0;
 }
  
+// maintenance note (15): add complexity note to this file — 2026-09-25

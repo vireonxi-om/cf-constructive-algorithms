@@ -34,3 +34,4 @@ int main(){
     return 0;
 }
 // maintenance note (8): add editorial link comment to this file — 2026-09-08
+// maintenance note (16): add complexity note to this file — 2026-09-28

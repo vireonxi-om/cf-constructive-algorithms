@@ -66,3 +66,4 @@ int main() {
 
 
 
+// maintenance note (18): note time complexity in this file — 2026-10-03

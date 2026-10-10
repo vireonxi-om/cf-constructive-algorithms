@@ -50,3 +50,4 @@ int main(){
     return 0;
 }
 // maintenance note (4): minor readability pass on this file — 2026-08-29
+// maintenance note (21): add edge-case comment to this file — 2026-10-10

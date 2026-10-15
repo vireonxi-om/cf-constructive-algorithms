@@ -30,4 +30,4 @@ int main(){
     scanf("%d", &t);
     while(t--) solve();
     return 0;
-}
+}// maintenance note (23): small formatting cleanup on this file — 2026-10-15

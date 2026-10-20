@@ -34,3 +34,4 @@ int main(){
     for(int i=0; i<t; i++) solve();
     return 0;
 }
+// maintenance note (25): add editorial link comment to this file — 2026-10-20
